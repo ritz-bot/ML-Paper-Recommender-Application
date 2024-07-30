@@ -9,11 +9,12 @@ This repository contains a Streamlit application that helps users find machine l
 
 ## Demo
 
-Check out our [video demonstration](#) to see the app in action.
+Check out our video demonstrationto see the app in action.
+
+https://github.com/user-attachments/assets/4f695891-db8b-44a5-a90d-2a42a9de68c4
 
 
 
-![Xnip2024-07-30_23-15-24](https://github.com/user-attachments/assets/01de49e1-72f4-4d05-85f2-1ced81f9df92)
 
 ## Installation
 
@@ -42,24 +43,19 @@ To run this application locally, follow these steps:
 3. Browse through the list of related papers.
 4. Click on a paper to view more details such as the abstract, authors, and publication date.
 
-## Video Demonstration
-
-For a quick overview of how to use the application, watch the video demonstration below:
-
-[![Watch the video]()
-
-https://github.com/user-attachments/assets/4f695891-db8b-44a5-a90d-2a42a9de68c4
 
 
-![Xnip2024-07-30_23-15-24](https://github.com/user-attachments/assets/b2cbdbd5-3f2a-424d-9c59-ecee6843ae37)
+
 
 ## Screenshots
 
 Here is a preview of the application interface:
 
-![App Interface](path/to/your/image.png)
+![Xnip2024-07-30_23-15-24](https://github.com/user-attachments/assets/b2cbdbd5-3f2a-424d-9c59-ecee6843ae37)
 
+![Xnip2024-07-30_23-21-34](https://github.com/user-attachments/assets/8a012e37-6f2e-4ef6-ab15-2f98f1039494)
 
+![Xnip2024-07-30_23-22-20](https://github.com/user-attachments/assets/8cd32d93-f7a9-42f0-b7ea-67437e8428a1)
 
 ## Contact
 
