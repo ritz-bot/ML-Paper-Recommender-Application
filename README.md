@@ -53,7 +53,11 @@ Here is a preview of the application interface:
 
 ![Xnip2024-07-30_23-15-24](https://github.com/user-attachments/assets/b2cbdbd5-3f2a-424d-9c59-ecee6843ae37)
 
+When a prompt was given to search "Papers with Lstm and GAN's"
+
 ![Xnip2024-07-30_23-21-34](https://github.com/user-attachments/assets/8a012e37-6f2e-4ef6-ab15-2f98f1039494)
+
+When a prompt was given to search "Papers with NLP Techniques for Fake News Detection "
 
 ![Xnip2024-07-30_23-22-20](https://github.com/user-attachments/assets/8cd32d93-f7a9-42f0-b7ea-67437e8428a1)
 
