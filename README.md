@@ -1,5 +1,5 @@
 # ML-Paper-Recommender-Application
-This repository contains a Streamlit application that helps users find machine learning papers related to specific methodologies. The app leverages various APIs and libraries to search for academic papers and provides an intuitive interface for easy access.
+This repository contains a Streamlit application that helps users find machine learning papers related to specific methodologies. The app leverages various Documents to search for academic papers and provides an intuitive interface for easy access.
 
 ## Features
 
