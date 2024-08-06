@@ -63,6 +63,6 @@ When a prompt was given to search "Papers with NLP Techniques for Fake News Dete
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact us at devworks@ridhampuri.in
+If you have any questions or feedback, please feel free to contact me at devworks@ridhampuri.in
 
 ```
